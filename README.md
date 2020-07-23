@@ -1,10 +1,8 @@
 # Random Anime Chatbot
 
 ## Requirements
-- [virtaulenv](https://virtualenv.pypa.io/en/latest/installation/)
-
-### Dev Environment Requirements
 ```
+virtualenv==20.0.27
 pymessenger==0.0.7.0
 jikanpy==4.2.1
 flask==1.1.2
